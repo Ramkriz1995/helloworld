@@ -1,0 +1,7 @@
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\HelloWorldApp.Web.exe
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\appsettings.json
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\HelloWorldApp.Web.dll
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\HelloWorldApp.Web.deps.json
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\HelloWorldApp.Web.runtimeconfig.json
+C:\Users\narala.ramakrishna\Desktop\hello-world\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\publish\HelloWorldApp.Web.pdb
